@@ -2,7 +2,9 @@ package com.example.demo.models;
 
 public class Product {
 	
-	// Working on HIS-122 which is in betwween stroy
+	
+	private int id;
+	private String name;
 	
 	public void display() {
 		
