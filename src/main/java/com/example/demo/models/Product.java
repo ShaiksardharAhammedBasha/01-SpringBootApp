@@ -8,4 +8,8 @@ public class Product {
 		System.out.println("Welcome HIS-122");
 	}
 
+	public void newMethodInMaster() {
+		System.out.println("7:23 pm added");
+	}
+
 }
