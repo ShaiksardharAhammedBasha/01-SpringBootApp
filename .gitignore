@@ -6,3 +6,6 @@
 **/.settings/
 blog/bin/
 **/.tern-project
+
+# idea file
+.idea/
