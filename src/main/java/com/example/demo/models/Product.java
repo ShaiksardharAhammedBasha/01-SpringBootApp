@@ -3,8 +3,8 @@ package com.example.demo.models;
 public class Product {
 	
 	
-	private int pid;
-	private String pname;
+	private int id;
+	private String name;
 	
 	public void display() {
 		
