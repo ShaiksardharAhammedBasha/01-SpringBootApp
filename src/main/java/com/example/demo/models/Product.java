@@ -12,4 +12,8 @@ public class Product {
 		System.out.println("7:23 pm added");
 	}
 
+	public void newMethodInMaster2() {
+		System.out.println("7:24 pm added");
+	}
+
 }
